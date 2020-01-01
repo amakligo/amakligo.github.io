@@ -127,9 +127,11 @@ textarea {
 	font-family: 'Varela Round', sans-serif;
 }
 body {
+	padding: 0;
 	margin: 0;
 	font-family: 'Open Sans', sans-serif;
 }
+
 /* ==========================================================================Links========================================================================== */
 a:focus {
 	outline: thin dotted;
